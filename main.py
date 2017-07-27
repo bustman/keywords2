@@ -8,3 +8,8 @@ def benchmark(func):
         return res
     return wrapper
 
+def test(self,name):
+    self.name = name
+
+while True:
+    break
